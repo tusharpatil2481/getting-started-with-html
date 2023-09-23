@@ -1,0 +1,32 @@
+Ans.2. 
+Comments are used for various purposes by developers to take reference of the code for eg:-
+1)Different sections of code used to testing purposes.
+2)many people work on same project so if a new person joins the project in between, comments make it easier for the person to understand the previous code.
+3)comments acts as reminder for future reference or modification of code.
+
+Comments are of two types single line comment and multiline comment.
+Single line comment:-
+<!- -  xyz  - - >
+Multi line comment:-
+<!- - This is a comment
+This can be a multi line as well -- >
+
+Ans.4.
+Tags
+Tags are the building block of the html, html is almost build by tags,tags consist of angular brackets.
+For eg:-  < h1 >  </h1>
+The tag mentioned in the above example is known as heading tag it is used to define the heading in the html.
+There are basically two types of tags in html singular tags and Paired tags.
+Singular tags
+This tags are those tags which have only one tag i.e it does not not have a paired tag
+For eg:-  <br>,<hr>  etc.
+Paired tags
+This are the tags which have paired clauses which are known as opening tag and closing tag
+For eg:- <h1> </h1>, <p></p> etc.
+Elements
+Element consist of the opening tag, closing tag and content inside it. This element builds the whole html.
+The opening tag defines the start of the html element , the content inside the both tags is the data or text which we want to put in. the closing tag is the last part of the element which ends the element. It is enclosed in an angular bracket with baclslash.
+Some tags does not need closing tags.
+
+Ans.5.
+The HTML document type declaration is also known as DOCTYPE , it  is the first line of code which is there in every HTML or XHTML document. The DOCTYPE declaration is an instruction to the web browser about what version of HTML the page is written in. This ensures that the web page is parsed the same way by different web browsers.
